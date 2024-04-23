@@ -1,0 +1,7 @@
+C:\Users\sstra\Documents\Github\Example_Unity\Example_Unity\CSharp\CSharp\bin\Debug\CSharp.exe.config
+C:\Users\sstra\Documents\Github\Example_Unity\Example_Unity\CSharp\CSharp\bin\Debug\CSharp.exe
+C:\Users\sstra\Documents\Github\Example_Unity\Example_Unity\CSharp\CSharp\bin\Debug\CSharp.pdb
+C:\Users\sstra\Documents\Github\Example_Unity\Example_Unity\CSharp\CSharp\obj\Debug\CSharp.csproj.AssemblyReference.cache
+C:\Users\sstra\Documents\Github\Example_Unity\Example_Unity\CSharp\CSharp\obj\Debug\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\sstra\Documents\Github\Example_Unity\Example_Unity\CSharp\CSharp\obj\Debug\CSharp.exe
+C:\Users\sstra\Documents\Github\Example_Unity\Example_Unity\CSharp\CSharp\obj\Debug\CSharp.pdb
